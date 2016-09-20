@@ -1,9 +1,9 @@
 # BIShare
 Document Management System for SharePoint
-Overview
+	Overview
 BI Share for Word streamlines the work with documents on SharePoint portals and makes it possible to create and save documents with a simple inclusion of metadata, save or import versions of a document, 
 quickly search for, and open, different types of documents from one interface of BI Share – the document management system for SharePoint.
-About BI Share 
+	About BI Share 
 BI Share, the document management system for SharePoint, broadens, simplifies and accelerates work with document libraries and other types of content:
 	•	BI Share will help to turn corporate information into intellectual assets of your organization, enhance the efficiency of your business processes and answer questions as to who and how worked with a document;
 	•	BI Share facilitates electronic document management by organizing electronic document libraries for any file formats and automatically creating a folder hierarchy;
